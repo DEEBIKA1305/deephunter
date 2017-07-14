@@ -1,6 +1,6 @@
 package sololearn;
 import java.util.*;
-public class Onlyonce {
+public class Firstrepeat {
 public static void main(String args[]) {
 	
 	Scanner s=new Scanner(System.in);
